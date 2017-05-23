@@ -1,3 +1,5 @@
+## Circle CI Status: ![Build Status](https://circleci.com/gh/w1nterl0ng/Docker-With-Continuous-Integration.png?circle-token=:circle-token)
+
 # Test app for bTreePress course on Continous Integration with Docker
 This is a quick  node.js appfor the purposes of demonstrating a basic CI/CD workflow with Docker Hub for How To Use Docker With Continous Integration To Build A DevOps Automated Workflow .
 This Project Is Included In the Exercise Files  
@@ -10,13 +12,13 @@ https://github.com/bTreePress/Docker-With-Continous-Integration
 download or pull to your local computer
 https://github.com/bTreePress/Docker-With-Continous-Integration.git
 
-In the root of the project folder run 
+In the root of the project folder run
 ```javascript
 npm install
 ```
-To Start the site run 
+To Start the site run
 ```
-node . 
+node .
 ```
 To View The Site go to:  
 **http://localhost:8080**
